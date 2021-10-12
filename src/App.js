@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Assignment 1 - CMPE 281 - By Krishna Gupta - 015721199</p>
+        <p>Assignment 2 - CMPE 281 - By Krishna Gupta - 015721199</p>
       </header>
     </div>
   );
